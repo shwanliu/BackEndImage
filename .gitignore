@@ -1,0 +1,6 @@
+*.dat
+*.pyc
+.DS_Store
+*/checkpoints
+ImagesTemp
+*.jpg
